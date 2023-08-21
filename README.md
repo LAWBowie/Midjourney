@@ -7,6 +7,8 @@ My experiments with AI image generation serve dual purposes. First, it's a testa
 
 As you browse through this collection, you'll see how AI can be a creative partner, bringing abstract concepts to life.
 
+I've also 
+
 
 
 ## Midjourney Details
